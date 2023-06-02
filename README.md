@@ -12,7 +12,7 @@ Assignment: Backend Development with Express.js and MongoDB
 
 1. Create new folder
 2. Go inside that folder open `cmd`
-3. Type `git clone [https://github.com/Akshay-9189/ECommerceApp-Backend.git`](https://github.com/Gokulraut/FurationRepo.git)
+3. Type `git clone (https://github.com/Gokulraut/FurationRepo.git)
 
 ## Steps To Start Project
 
